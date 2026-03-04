@@ -119,8 +119,6 @@ These visualizations help interpret model performance.
 
 ---
 
-## Project Structure
-
 ## Future Improvements
 
 Potential improvements for future work include:
